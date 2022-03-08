@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "565421765259",
+    "project_id": "login-phone-d851c",
+    "storage_bucket": "login-phone-d851c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565421765259:android:097da3875bc6a24a6d1a8e",
+        "android_client_info": {
+          "package_name": "com.example.loginphone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565421765259-o0o41n6dptigs74pe2qur754mcgs39d3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATJdk0QCHjgvTUVVBvokwMF_UxQS2d6ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565421765259-o0o41n6dptigs74pe2qur754mcgs39d3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
